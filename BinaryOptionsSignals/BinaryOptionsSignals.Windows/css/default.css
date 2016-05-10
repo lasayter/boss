@@ -1,5 +1,5 @@
 ﻿.main-background, #contenthost {
-    background-image: url('/images/MainAppBackground.png');
+    background: #404040;
 }
 
 #contenthost {

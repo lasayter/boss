@@ -42,15 +42,6 @@
             }
         },
 
-        //section3HeaderNavigate: util.markSupportedForProcessing(function (args) {
-           // nav.navigate("/pages/section/section.html", { title: args.detail.section.header, groupKey: section3Group.key });
-        //}),
-
-        //section3ItemNavigate: util.markSupportedForProcessing(function (args) {
-            //var item = Data.getItemReference(section3Items.getAt(args.detail.itemIndex));
-            //nav.navigate("/pages/item/item.html", { item: item });
-        //}),
-
         unload: function () {
             // TODO: Отвечайте на переходы с этой страницы.
         },
